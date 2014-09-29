@@ -70,6 +70,10 @@
 
 ---
 
+^ Non-goals, but interesting
+^ * Understand performance / efficiency of graph queries
+^ * Implement anything on JRuby
+
 # Goals
 
 * Explore Neo4j capabilities and syntax
@@ -77,6 +81,11 @@
 * Examine tools for integrating with a Rails app
 
 ---
+
+^ These are all in the linked air-graphs project
+^ * Movie database exploration
+^ * Social network SQL-vs-Neo4j comparison
+^ * Ruby Gems dependency exploration
 
 # Examples
 
