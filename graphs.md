@@ -98,6 +98,12 @@
 
 ---
 
+# CFP
+
+![inline](http://i.imgur.com/8oiwvCm.png)
+
+---
+
 # Resources
 
 * AIR Homepage - [air-tracker.herokuapp.com](http://air-tracker.herokuapp.com)
