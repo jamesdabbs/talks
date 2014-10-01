@@ -106,7 +106,7 @@
 
 # Resources
 
-* AIR Homepage - [air-tracker.herokuapp.com](http://air-tracker.herokuapp.com)
+* AIR Homepage - [air-topics.herokuapp.com](http://air-topics.herokuapp.com)
 * Slides - [jamesdabbs/air-talks](https://github.com/jamesdabbs/air-talks)
 * Rails Project - [jamesdabbs/air-graphs](https://github.com/jamesdabbs/air-graphs)
 * Twitter - [@jamesdabbs](https://twitter.com/jamesdabbs)
