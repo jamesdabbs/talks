@@ -44,7 +44,7 @@
 
 # _JS in RoR_
 
-* [UJS](http://edgeguides.rubyonrails.org/working_with_javascript_in_rails.html)
+* [UJS / Turbolinks](http://edgeguides.rubyonrails.org/working_with_javascript_in_rails.html)
 * [The asset pipeline](http://guides.rubyonrails.org/asset_pipeline.html)
 * [Coffeescript](http://coffeescript.org/)
 
