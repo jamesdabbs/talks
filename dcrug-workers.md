@@ -3,7 +3,7 @@
 
 ---
 
-# __*The Request-Response Loop*__
+# __*The Request-Response Cycle*__
 
 1. User makes a request (via clicking on a link, submitting a form)
 2. ???
@@ -12,7 +12,7 @@
 
 ---
 
-### Background workers allow you to perform work _outside the request-response loop_
+### Background workers allow you to perform work _outside the request-response cycle_
 
 ---
 
